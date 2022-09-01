@@ -1,2 +1,3 @@
 # ux-design
-UI-Design examples.
+UX and UI-Design examples.
+
